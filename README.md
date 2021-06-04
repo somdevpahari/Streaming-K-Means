@@ -4,7 +4,7 @@
 This project requires [spark](https://www.apache.org/dyn/closer.lua/spark/spark-3.1.2/spark-3.1.2-bin-hadoop3.2.tgz)  and [netcat](https://nmap.org/download.html) installed.
 
 ### Background
-We're going to start with an machine learning algorithm called K means clustering by using Spark's MLlib library and updating the model in real time as new data is received.
+We're going to start with a machine learning algorithm called K means clustering by using Spark's MLlib library and updating the model in real time as new data is received.
 You can imagine it's a sort of model that learns over time in real time, just like a human brain does, given more and more input, you know, as it happens. So the idea of K means clustering is what it sounds like, clustering data. Here, we are clustering data with respect to income and age of individuals.
 
 ### Code
